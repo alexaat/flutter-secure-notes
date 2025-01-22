@@ -1,0 +1,50 @@
+{
+    "language": "English",
+    "@language":{
+        "description": "The current language"
+    },
+    "authentication_required": "Authentication required",
+    "@authentication_required":{
+        "description": "Authentication message"
+    },
+    "add_some_notes": "Add some notes",
+    "@add_some_notes":{
+        "description": "Add notes message"
+    },
+    "delete_all": "Delete All",
+    "@delete_all":{
+        "description": "Delete all notes menu item"
+    },
+    "new_note": "New",
+    "@new_note":{
+        "description": "Create new notes menu item"
+    },
+    "authenticate_to_see_hidden_notes": "Authenticate to see hidden notes",
+    "@authenticate_to_see_hidden_notes":{
+        "description": "Biometrics authentication message"
+    },
+    "title": "Title",
+    "@title":{
+        "description": "New note title"
+    },
+    "title_is_required": "Title is required",
+    "@title_is_required":{
+        "description": "New note title error message"
+    },
+    "description": "Description",
+    "@description":{
+        "description": "New note description"
+    },
+    "description_is_required": "Description is required",
+    "@description_is_required":{
+        "description": "New note description error message"
+    },
+    "save": "SAVE",
+    "@save":{
+        "description": "Save note button"
+    },
+    "edit": "Edit",
+    "@save":{
+        "description": "Edit note"
+    }
+}

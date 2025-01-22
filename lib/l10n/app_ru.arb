@@ -1,0 +1,13 @@
+{
+    "authentication_required": "Требуется аутентификация",
+    "add_some_notes": "Добавьте заметку",
+    "delete_all": "Удалить всё",
+    "new_note": "Создать",
+    "authenticate_to_see_hidden_notes": "Авторизуйтесь, чтобы увидеть скрытые заметки",
+    "title": "Заголовок",
+    "title_is_required" : "Заголовок обязателен",
+    "description": "Описание",
+    "description_is_required": "Описание обязательно",
+    "save": "Сохранить",
+    "edit": "Редактировать"
+}
